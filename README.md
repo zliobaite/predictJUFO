@@ -1,4 +1,4 @@
-I am testing scikit-learn for text classification.
+With this package I am testing scikit-learn for text classification.
 
 I am using a toy problem: tryng to predict JUFO rank based on journal title. 
 
